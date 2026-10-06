@@ -1,0 +1,7 @@
+streamlit==1.65.0
+openai>=1.40
+trafilatura>=2.0
+rapidocr>=3.9
+onnxruntime>=1.18
+Pillow>=10.0
+numpy>=1.26,<3.0
